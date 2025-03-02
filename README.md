@@ -77,13 +77,3 @@ Denna plattform ska låta studenter eller anställda genomföra kurser och övni
 
 ---
 
-## Projekt Setup
-
-### Krav och installation
-- Lista eventuella systemkrav (exempel: Node.js, Java, etc.).
-- Hur du installerar projektet lokalt (klona repositoriet, installera beroenden, med mera).
-
-### Kör projektet lokalt
-1. Klona repot  
-   ```bash
-   git clone <länk-till-ditt-repo>.git
